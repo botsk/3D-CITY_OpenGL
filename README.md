@@ -1,2 +1,2 @@
-# 3D-CITY_OpenGL
-3D City designed using OpenGL Libraries
+# 3D-CITY in C++ using OpenGL 
+
